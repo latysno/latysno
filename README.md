@@ -1,7 +1,4 @@
-## Olá! eu sou o Álvaro Luís!
-
--💡 Em busca do meu primeiro trabalho como dev
--🌱Estudando JavaScript
+## Olá! eu sou Álvaro Luís👋🏾
 
 ![Álvaro GitHub stats](https://github-readme-stats.vercel.app/api?username=latysno&show_icons=true&theme=dracula&count_private=true)
 
