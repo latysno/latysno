@@ -11,13 +11,13 @@
 ## My Skills:
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,java,php,nodejs,react)](https://skillicons.dev)
 
-## Databases:
+### Databases:
   [![My Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
 
-## Frameworks:
+### Frameworks:
   [![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
 
-## Operating System:
+### Operating System:
   [![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 
 ## Contacts:
