@@ -9,7 +9,7 @@
 
 
 ## My Skills:
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,java,php,nodejs,react,postgres,mysql,linux)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,java,php,nodejs,react)](https://skillicons.dev)
 
 ## Databases:
   [![My Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
