@@ -1,4 +1,4 @@
-## Olá! eu sou Álvaro Luís👋🏾
+## Olá! eu sou Álvaro Luís 👋🏾
 
 ![Álvaro GitHub stats](https://github-readme-stats.vercel.app/api?username=latysno&show_icons=true&theme=dracula&count_private=true)
 
